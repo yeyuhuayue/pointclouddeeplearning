@@ -1,6 +1,6 @@
 
 ## 3D Applications
-- 3D Point Cloud Object Detection
+- [3D Point Cloud Object Detection](Applications/3D Object Recognition.md)
 
 - 3D Point Cloud Segmentation   
 
