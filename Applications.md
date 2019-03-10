@@ -2,7 +2,7 @@
 ## 3D Applications
 - 3D Point Cloud Object Detection
 
-- 3D Point Cloud Segmentation
+- 3D Point Cloud Segmentation   
 
 - 3D Reconstruction
 
