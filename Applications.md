@@ -1,5 +1,5 @@
 
-## Different Applications of 3D
+## 3D Applications
 - 3D Point Cloud Object Detection
 
 - 3D Point Cloud Segmentation
